@@ -1,5 +1,5 @@
 {
-  "name": "sitkoru/yandex-direct-api",
+  "name": "nameewgeniy/yandex-direct-api",
   "description": "Client for Yandex.Direct API v5",
   "minimum-stability": "stable",
   "license": "MIT",
@@ -7,6 +7,10 @@
     {
       "name": "George Drak",
       "email": "sonicgd@gmail.com"
+    },
+    {
+      "name": "Ewgeniy Nakapyuk",
+      "email": "nameewgeniy@gmaul.com"
     }
   ],
   "require": {
