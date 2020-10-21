@@ -2,12 +2,12 @@
 
 Набор классов для удобной работы с [API Яндекс.Директ](https://yandex.ru/dev/direct/). 
 
-[![Latest Stable Version](https://poser.pugx.org/sitkoru/yandex-direct-api/v/stable)](https://packagist.org/packages/sitkoru/yandex-direct-api) [![Total Downloads](https://poser.pugx.org/sitkoru/yandex-direct-api/downloads)](https://packagist.org/packages/sitkoru/yandex-direct-api) [![License](https://poser.pugx.org/sitkoru/yandex-direct-api/license)](https://packagist.org/packages/sitkoru/yandex-direct-api)
+[![Latest Stable Version](https://poser.pugx.org/nameewgeniy/yandex-direct-api/v/stable)](https://packagist.org/packages/nameewgeniy/yandex-direct-api) [![Total Downloads](https://poser.pugx.org/nameewgeniy/yandex-direct-api/downloads)](https://packagist.org/packages/nameewgeniy/yandex-direct-api) [![License](https://poser.pugx.org/nameewgeniy/yandex-direct-api/license)](https://packagist.org/packages/nameewgeniy/yandex-direct-api)
 
 ## Установка
 
 ```bash
-composer require sitkoru/yandex-direct-api
+composer require nameewgeniy/yandex-direct-api
 ```
 
 ## Использование
