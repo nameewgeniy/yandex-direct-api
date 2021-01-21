@@ -32,7 +32,7 @@ class AudienceInterestsItemGet extends Model
     public $Description;
 
     /**
-     * @var \directapi\services\dictionaries\enum\InterestTypeEnum[]
+     * @var \directapi\services\dictionaries\enum\InterestTypeEnum
      */
     public $InterestType;
 }
